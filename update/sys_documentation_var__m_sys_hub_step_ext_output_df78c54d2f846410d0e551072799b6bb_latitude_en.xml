@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="latitude" label="latitude" language="en" table="var__m_sys_hub_step_ext_output_df78c54d2f846410d0e551072799b6bb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>latitude</element>
+            <help/>
+            <hint/>
+            <label>latitude</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_df78c54d2f846410d0e551072799b6bb</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-22 11:11:24</sys_created_on>
+            <sys_id>ef78c54d2f846410d0e551072799b6e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>latitude</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_363633_ipinfo_sp">315afb2c2f882410d0e551072799b68c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">315afb2c2f882410d0e551072799b68c</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_df78c54d2f846410d0e551072799b6bb_latitude_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-22 11:11:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
